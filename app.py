@@ -20,7 +20,7 @@ def generate_javascript_code(task_description):
     return javascript_code
 
 def main():
-    st.set_page_config(page_title="SQL Query Generator", page_icon="🚀")
+    st.set_page_config(page_title="JavaScript Generator", page_icon="🚀")
     st.markdown(
         """
             <div style="text-align:center;">
